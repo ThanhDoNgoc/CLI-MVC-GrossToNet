@@ -1,0 +1,3 @@
+MONGO_URL = "your mongo url"
+MONGO_DB = "your mongo db"
+PORT = "port"

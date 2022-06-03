@@ -1,0 +1,7 @@
+PORT = "YouPort"
+DB_HOST = 'Host IP'
+DB_PORT = Your PORT
+DB_USER = 'your db username'
+DB_PASSWORD = 'your db password'
+DB_DATABASE = 'your database'
+NODE_ENV = 'your enviroment' // 'development'
