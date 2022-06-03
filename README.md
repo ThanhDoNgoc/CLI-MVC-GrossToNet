@@ -7,4 +7,4 @@ Go to other folder
 
 cmd :	MVC
 
-To create project
+To create Gross to Net project
